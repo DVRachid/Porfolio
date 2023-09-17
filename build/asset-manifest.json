@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f152b288.css",
+    "main.js": "/static/js/main.ee0e8bc1.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/website-management.jpeg": "/static/media/website-management.e5acc76a59a1cf819f4b.jpeg",
+    "static/media/app.png": "/static/media/app.0598f5e0d941cdf79a54.png",
+    "static/media/Ouchaikh_rachid.pdf": "/static/media/Ouchaikh_rachid.d38ddbd3eebb46d2b91f.pdf",
+    "static/media/prof-bg.png": "/static/media/prof-bg.c48e1c275bdb71fc0869.png",
+    "static/media/projct2.png": "/static/media/projct2.845db6f9d7505dd38976.png",
+    "static/media/yy.png": "/static/media/yy.71a51c03a5759fba2248.png",
+    "static/media/projet1.png": "/static/media/projet1.288fff78c2f0c87c3476.png",
+    "static/media/sql.avif": "/static/media/sql.348458e910c64d0c8472.avif",
+    "static/media/toool.avif": "/static/media/toool.4fec37bcc7a9a6ed7d27.avif",
+    "static/media/logoo.png": "/static/media/logoo.ce0ad85db4ed93453447.png",
+    "static/media/social.jpeg": "/static/media/social.c38e4667524c27ae382a.jpeg",
+    "static/media/api.avif": "/static/media/api.d16ab352a983b64f14e3.avif",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.f152b288.css.map": "/static/css/main.f152b288.css.map",
+    "main.ee0e8bc1.js.map": "/static/js/main.ee0e8bc1.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f152b288.css",
+    "static/js/main.ee0e8bc1.js"
+  ]
+}
